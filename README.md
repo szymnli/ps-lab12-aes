@@ -1,4 +1,4 @@
 # Usage
 ```
-python main.py [file.txt]
+python main.py <file.txt>
 ```
